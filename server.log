@@ -1,0 +1,83 @@
+2016-11-21 20:20:32 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-11-21 20:20:32 [INFO] Loading pocketmine.yml...
+2016-11-21 20:20:32 [INFO] Loading server properties...
+2016-11-21 20:20:32 [INFO] Starting Minecraft PE server on 0.0.0.0:19138
+2016-11-21 20:20:32 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-11-21 20:20:32 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-11-21 20:20:39 [NOTICE] Level "world" not found
+2016-11-21 20:20:39 [INFO] Preparing level "world"
+2016-11-21 20:20:39 [NOTICE] Spawn terrain for level "world" is being generated in the background
+2016-11-21 20:20:39 [INFO] Starting GS4 status listener
+2016-11-21 20:20:39 [INFO] Setting query port to 19138
+2016-11-21 20:20:39 [INFO] Query running on 0.0.0.0:19138
+2016-11-21 20:20:39 [INFO] Default game type: SURVIVAL
+2016-11-21 20:20:39 [INFO] Done (7.503s)! For help, type "help" or "?"
+2016-11-21 20:20:39 [INFO] CONSOLE: Stopping the server...
+2016-11-21 20:20:39 [INFO] Unloading level "world"
+2016-11-21 20:20:39 [INFO] Stopping other threads
+2016-11-21 20:23:53 [WARNING] Timezone could not be automatically determined. An incorrect timezone will result in incorrect timestamps on console logs. It has been set to "UTC" by default. You can change it on the php.ini file.
+2016-11-21 20:23:53 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-11-21 20:23:53 [INFO] Loading pocketmine.yml...
+2016-11-21 20:23:53 [INFO] Loading server properties...
+2016-11-21 20:23:53 [INFO] Starting Minecraft PE server on 0.0.0.0:19138
+2016-11-21 20:23:53 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-11-21 20:23:53 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-11-21 20:24:01 [INFO] Preparing level "world"
+2016-11-21 20:24:01 [INFO] Starting GS4 status listener
+2016-11-21 20:24:01 [INFO] Setting query port to 19138
+2016-11-21 20:24:01 [INFO] Query running on 0.0.0.0:19138
+2016-11-21 20:24:01 [INFO] Default game type: SURVIVAL
+2016-11-21 20:24:01 [INFO] Done (14.266s)! For help, type "help" or "?"
+2016-11-21 20:24:06 [INFO] CONSOLE: Stopping the server...
+2016-11-21 20:24:06 [INFO] Unloading level "world"
+2016-11-21 20:24:06 [INFO] Stopping other threads
+2016-11-21 20:29:19 [WARNING] Timezone could not be automatically determined. An incorrect timezone will result in incorrect timestamps on console logs. It has been set to "UTC" by default. You can change it on the php.ini file.
+2016-11-21 20:29:19 [INFO] Starting Minecraft: PE server version v0.10.5 alpha
+2016-11-21 20:29:19 [INFO] Loading pocketmine.yml...
+2016-11-21 20:29:20 [INFO] Loading server properties...
+2016-11-21 20:29:20 [INFO] Starting Minecraft PE server on 0.0.0.0:19138
+2016-11-21 20:29:20 [INFO] This server is running PocketMine-MP version 1.4.1-980 "絶好(Zekkou)ケーキ(Cake)" (API 1.11.0)
+2016-11-21 20:29:20 [INFO] PocketMine-MP is distributed under the LGPL License
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'EconomyAirport': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'EconomyLand': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'EconomyProperty': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'EconomyPShop': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'EconomySell': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'EconomyShop': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'EconomyUsury': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'WalkingParticles': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'VPNGuard': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'VoteReward': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'VoteBan': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'Jail': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'LuckyBlock': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'AlwaysSpawn': API version not compatible
+2016-11-21 20:29:21 [ERROR] Could not load plugin 'SignShop': API version not compatible
+2016-11-21 20:29:21 [INFO] Loading EconomyAPI v2.0.9
+2016-11-21 20:29:21 [INFO] Loading EconomyAuction v2.0.2
+2016-11-21 20:29:21 [INFO] Loading EconomyCasino v2.0.2
+2016-11-21 20:29:21 [INFO] Loading EconomyJob v2.0.4
+2016-11-21 20:29:21 [INFO] Loading EconomyTax v2.0.3
+2016-11-21 20:29:21 [INFO] Loading RandomItem v4.3
+2016-11-21 20:29:21 [INFO] Loading iProtector v3.1b
+2016-11-21 20:29:21 [INFO] Loading ChestRefill v1.0.1
+2016-11-21 20:29:21 [INFO] Loading CustomRanks v1.0.0
+2016-11-21 20:29:21 [INFO] Loading RealTime v2.1.1
+2016-11-21 20:29:21 [INFO] Loading PocketMoney v4.0.1
+2016-11-21 20:29:21 [INFO] Loading Fireworks v1.2.0
+2016-11-21 20:29:21 [INFO] Loading MineReset v2.1
+2016-11-21 20:29:21 [INFO] Loading ServerKits v1.3
+2016-11-21 20:29:21 [INFO] Loading SignPortal v1.1.2
+2016-11-21 20:29:21 [INFO] Loading ChestShop v2.0.1
+2016-11-21 20:29:26 [INFO] Enabling ServerKits v1.3
+2016-11-21 20:29:26 [INFO] [ServerKits] Economy support not available. Please install MassiveEconomy to enable Economy support
+2016-11-21 20:29:27 [INFO] Preparing level "world"
+2016-11-21 20:29:27 [INFO] Enabling EconomyAPI v2.0.9
+2016-11-21 20:29:27 [INFO] [EconomyAPI] Language set to User Defined by onebone
+2016-11-21 20:29:27 [NOTICE] [EconomyAPI] Auto save has been set to interval : 10 min(s)
+2016-11-21 20:29:27 [INFO] [EconomyAPI] Checking for updates... It may be take some while.
+2016-11-21 20:29:27 [EMERGENCY] An unrecoverable error has occurred and the server has crashed. Creating a crash dump
+2016-11-21 20:29:27 [EMERGENCY] Please submit the "/mnt/sdcard/PocketMine/CrashDump_Mon_Nov_21-20.29.27-UTC_2016.log" file to the Bug Reporting page. Give as much info as you can.
+2016-11-21 20:29:33 [INFO] Disabling EconomyAPI v2.0.9
+2016-11-21 20:29:33 [INFO] Disabling ServerKits v1.3
+2016-11-21 20:29:33 [INFO] Unloading level "world"
