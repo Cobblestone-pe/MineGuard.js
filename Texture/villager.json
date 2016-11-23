@@ -1,0 +1,5 @@
+spawn_egg:120.Entity.383:120.texture."villager.png"
+name;;MineGuard
+/player.ban.hacker
+/player.create.notvip
+/ban
