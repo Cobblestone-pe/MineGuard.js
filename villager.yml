@@ -1,0 +1,8 @@
+//server ban plugin
+<Spawn_Egg:120.Entity.villager>
+{Javaruntime}
+Script_spawnvillager
+//;name:"MineGuard"
+//villager.holditem.276
+//villager.ban.nonvip.flying
+//;serverplugin
